@@ -1,5 +1,5 @@
--- TC003 Verify films released in the year 2006
+-- TC003: Verify films released in the year 2006
 
 SELECT *
-FROm film
+FROM film
 WHERE release_year = 2006;
