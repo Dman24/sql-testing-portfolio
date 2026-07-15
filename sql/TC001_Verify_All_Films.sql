@@ -1,4 +1,2 @@
--- TC001: Verify all films are displayed
-
-SELECT * 
+SELECT *
 FROM film;
