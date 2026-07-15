@@ -1,4 +1,4 @@
--- TC002: Verify films with rating = 'PG'
+-- SQL_TC002: Verify films with rating = 'PG'
 
 SELECT * 
 FROM film
