@@ -1,4 +1,4 @@
--- SQL_TC004: Verify films longer than 120 minutes
+-- FILM_TC004: Verify films longer than 120 minutes
 
 SELECT film_id, title, length
 FROM film
