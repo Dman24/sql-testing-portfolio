@@ -1,4 +1,4 @@
--- CUST_TC007: Verify customers from a specific city "Barcelona"
+-- CUST_TC001: Verify customers from a specific city "Barcelona"
 
 SELECT c.customer_id, c.first_name, c.last_name, ci.city
 FROM customer c
