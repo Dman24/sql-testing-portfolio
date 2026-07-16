@@ -1,4 +1,4 @@
--- SQL_TC008: Verify active customers
+-- CUST_TC008: Verify active customers
 
 SELECT customer_id, 
        first_name, 
