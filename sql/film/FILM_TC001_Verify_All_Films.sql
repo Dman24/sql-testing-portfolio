@@ -1,4 +1,4 @@
--- SQL_TC001: Verify all films are displayed
+-- FILM_TC001: Verify all films are displayed
 
 SELECT *
 FROM film;
