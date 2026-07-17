@@ -1,0 +1,6 @@
+-- FILM_TC014: Verify number of films per rating
+
+SELECT rating,
+COUNT(*) AS film_count
+FROM film
+GROUP BY rating;
