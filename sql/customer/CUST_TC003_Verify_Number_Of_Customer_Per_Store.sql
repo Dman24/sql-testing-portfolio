@@ -9,7 +9,7 @@ ORDER BY store_id;
 
 -- SQL Query 2 (Verification)
 SELECT customer_id,
-	     first_name,
+	   first_name,
        last_name,
        store_id
 FROM customer
